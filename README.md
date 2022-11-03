@@ -1,5 +1,11 @@
-# batch  viruses
+# Batch Scripts
 Nothing posted on here technically harmful just annoying.
+
+[-Home](https://github.com/Feesh09/v0.0.1)
+
+[-Batch Scripts](https://github.com/Feesh09/v0.0.1/tree/files)
+
+[-License, Table of Contents, and Credits](https://github.com/Feesh09/v0.0.1/tree/info)
 
 To learners I recommend [Tutorials Point Batch](https://pmfblos.github.io/OS/predavanja/literatura/TutorialsPoint%20Batch.pdf).
 
