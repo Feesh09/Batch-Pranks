@@ -28,6 +28,7 @@ echo Feesh09/v0.0.1/files/SkyNet.bat
 echo line 2-3: initial warning
 echo line 5-27: fake robot boot up with styling and functions
 pause
+//add new toc below (end with pause)
 echo Writers / Programmers
 echo 1. William James Latham (Feesh09)
 echo 2. Github
