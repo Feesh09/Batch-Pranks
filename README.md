@@ -1,7 +1,7 @@
 # batch scripts
 Nothing posted on here technically harmful just annoying.
 
-[-Home](https://github.com/Feesh09/v0.0.1/main)
+[-Home](https://github.com/Feesh09/v0.0.1)
 
 [-Batch Scripts](https://github.com/Feesh09/v0.0.1/tree/files)
 
