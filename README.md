@@ -1,2 +1,3 @@
-#Developer Remember
-Developers please remember to add file toc on tableofcontents|credits
+#Dev Notes
+
+- when new script is made add file toc on tableofcontents_credits.bat
