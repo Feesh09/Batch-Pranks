@@ -1,6 +1,8 @@
 # batch scripts
 Nothing posted on here technically harmful just annoying.
 
+[-Home](https://github.com/Feesh09/v0.0.1/main)
+
 [-Batch Scripts](https://github.com/Feesh09/v0.0.1/tree/files)
 
 [-License, Table of Contents, and Credits](https://github.com/Feesh09/v0.0.1/tree/info)
