@@ -1,3 +1,3 @@
-#Dev Notes
+# Dev Notes
 
-- when new script is made add file toc on tableofcontents_credits.bat
+- when new script is made add file toc on [tableofcontents_credits.bat]()
