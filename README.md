@@ -3,8 +3,8 @@ Nothing posted on here technically harmful just annoying.
 
 To learners I recommend [Tutorials Point Batch](https://pmfblos.github.io/OS/predavanja/literatura/TutorialsPoint%20Batch.pdf).
 
-'files' branch to view all batch scripts
-'info' branch to view the license and table of contents/credits
+*'files' branch to view all batch scripts
+*'info' branch to view the license and table of contents/credits
 
 
 
