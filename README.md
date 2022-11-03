@@ -1,4 +1,4 @@
-# batch scripts
+# Batch Scripts
 Nothing posted on here technically harmful just annoying.
 
 [-Home](https://github.com/Feesh09/v0.0.1)
