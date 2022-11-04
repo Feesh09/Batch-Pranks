@@ -1,6 +1,8 @@
 # Batch Scripts
 Nothing posted on here technically harmful just annoying.
+
 In releases is all files you need per script (PLEASE DOWNLOAD EVERY FILE).
+
 Ignore latest release just click on Releases to view all scripts.
 
 [-Home](https://github.com/Feesh09/v0.0.1)
