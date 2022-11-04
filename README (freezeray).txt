@@ -1,12 +1,13 @@
-﻿Meep is a file that purely just shutdown your computer
+﻿freezeray is a file that purely just shutdown your computer
 
 
--Safe
+-Harmless
 -Easy difficulty
--MRat-tail file
+-Medium File
 
 (DISCLAIMER)
 -Annoying
+-Repeating
 
 Batch Scripts 
 
