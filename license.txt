@@ -1,0 +1,56 @@
+﻿Property of Idiot Games
+                          __    _                                   
+                     _wr**        *-q__                             
+                  _dP                 9m_     
+                _#P                     9#_                         
+               d#@                       9#m                        
+              d##                         ###                       
+             J###                         ###L                      
+             {###K                       J###K                      
+             ]####K      ___aaa___      J####F                      
+         __gmM######_  w#P**   **9#m  _d#####Mmw__                  
+      _g##############mZ_         __g##############m_               
+    _d####M@PPPP@@M#######Mmp gm#########@@PPP9@M####m_             
+   a###**          ,Z*#####@* '######'\g          **M##m            
+  J#@*             0L  **##     ##@'  J#              *#K           
+  #*               `#    *_gmwgm_~    dF               `#_          
+                    '#_   ]#####F   _dK                 JE          
+                      *m__ ##### __g@'                   F          
+                        'PJ#####LP'                                 
+  `                       0######_                      '           
+                        _0########_                                   
+      .               _d#####$#####m__              ,              
+       '*w_________am#####P'   ~9#####mw_________w*'                  
+           ''9@#####@M''           ''P@#####@M''  
+
+
+ DEFINITION (section 1)
+ contents of [Idiot Game](https://github.com/Feesh09/harmless-batch-viruses) are not to be: redistributed "275" (section 2), modified "385" (section 3), used for personal gain "184" (section 4), or unlawful intent "473" (section 5).
+ in the event of any lawful action taken against a user is by definition not our problem.
+ SECTION 2
+ Files are not to be redistributed.
+ If files are discovered on any platform unless published by the original distributor.
+ All copies will be requested to be taken down after 2 warnings the account will be reported for fraudulent activity.
+ SECTION 3
+ All files are not recommended to be modified.
+ all modified files are no longer Idiot Games responsibility as it is no longer their product.
+ SECTION 4
+ Personal gain off of Idiot Games property is forbidden.
+ As Idiot Games does not profit from these files neither should you.
+ SECTION 5
+ Any unlawful action taken with Idiot Games files is not our responsibility.
+ In the event of lawful action taken against the files user, Idiot Games is not responsible.
+ We post for education only not to harm anyone or anything.
+ SECTION 6
+ all users/companies listed below is to be excluded to anything marked "###".
+ 184 = personal gain exclusions
+ 275 = redistribution exclusions
+ 385 = modification exclusions
+ 473 = unlawful intent exclusions
+ "184" = [no exclusions at the time of %date%]
+ "275" = [no exclusions at the time of %date%]
+ "385" = [no exclusions at the time of %date%]
+ "473" = [no exclusions at the time of %date%]
+
+
+ (last edit date = Nov 3, 2022)
