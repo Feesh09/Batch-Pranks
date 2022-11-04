@@ -1,3 +1,4 @@
+@echo off
 set loopcount=[10000]
 :loop
 echo meep
