@@ -5,6 +5,8 @@ In releases is all files you need per script (PLEASE DOWNLOAD EVERY FILE).
 
 Ignore latest release just click on Releases to view all scripts.
 
+Donations/Sponsors is not currently active.
+
 [-Home](https://github.com/Feesh09/v0.0.1)
 
 [-Batch Scripts](https://github.com/Feesh09/v0.0.1/tree/files)
