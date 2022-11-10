@@ -1,4 +1,4 @@
-﻿freezeray is a file that purely just shutdown your computer
+﻿____ is a file that purely just shutdown your computer
 
 
 -Harmless
