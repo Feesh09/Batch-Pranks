@@ -51,5 +51,5 @@ echo "184" = [no exclusions at the time of %date%]
 echo "275" = [no exclusions at the time of %date%]
 echo "385" = [no exclusions at the time of %date%]
 echo "473" = [no exclusions at the time of %date%]
-
-echo (last edit date = Nov 3, 2022)
+pause
+echo (last edit date = Nov 15, 2022)
